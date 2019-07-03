@@ -18,16 +18,16 @@
   },
   "homepage": "https://github.com/prince1809/material-component-web#readme",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.7.0",
-    "css-loader": "^3.0.0",
-    "dart-sass": "^1.22.2",
-    "extract-loader": "^3.1.0",
-    "fibers": "^4.0.1",
-    "file-loader": "^4.0.0",
+    "css-loader": "^0.28.0",
+    "dart-sass": "^1.17.2",
+    "extract-loader": "^1.0.2",
+    "fibers": "^4.0.0",
+    "file-loader": "^1.1.11",
     "sass-loader": "^7.1.0",
-    "webpack": "^4.35.2",
-    "webpack-dev-server": "^3.7.2"
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.4.3"
   }
 }
